@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![tchiba's 42 status](https://badge42.herokuapp.com/api/stats/tchiba?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maisontaigachiba&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

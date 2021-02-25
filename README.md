@@ -11,9 +11,9 @@
 made by https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 --->
-***
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maisontaigachiba&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maisontaigachiba&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- made by https://github.com/anuraghazra/github-readme-stats --->
